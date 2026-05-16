@@ -47,6 +47,72 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1738FindKthLargestXorCoordinateValue .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1738FindKthLargestXorCoordinateValue .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1738" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1738FindKthLargestXorCoordinateValue .java" />
+              <option name="titleSlug" value="find-kth-largest-xor-coordinate-value" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1742MaximumNumberOfBallsInABox .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1742MaximumNumberOfBallsInABox .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1742" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1742MaximumNumberOfBallsInABox .java" />
+              <option name="titleSlug" value="maximum-number-of-balls-in-a-box" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1748SumOfUniqueElements .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1748SumOfUniqueElements .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1748" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1748SumOfUniqueElements .java" />
+              <option name="titleSlug" value="sum-of-unique-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1752CheckIfArrayIsSortedAndRotated .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1752CheckIfArrayIsSortedAndRotated .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1752" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1752CheckIfArrayIsSortedAndRotated .java" />
+              <option name="titleSlug" value="check-if-array-is-sorted-and-rotated" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1757RecyclableAndLowFatProducts .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1757RecyclableAndLowFatProducts .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1757" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1757RecyclableAndLowFatProducts .java" />
+              <option name="titleSlug" value="recyclable-and-low-fat-products" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1758MinimumChangesToMakeAlternatingBinaryString .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1758MinimumChangesToMakeAlternatingBinaryString .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1758" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1758MinimumChangesToMakeAlternatingBinaryString .java" />
+              <option name="titleSlug" value="minimum-changes-to-make-alternating-binary-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1TwoSum .java">
           <value>
             <LeetcodeEditor>

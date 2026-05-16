@@ -1,4 +1,4 @@
-package leetcode.editor.cn.shuzu;
+package leetcode.editor.cn.array;
 
 import java.util.Arrays;
 
