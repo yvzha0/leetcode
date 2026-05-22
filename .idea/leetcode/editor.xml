@@ -47,6 +47,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1295FindNumbersWithEvenNumberOfDigits .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1295FindNumbersWithEvenNumberOfDigits .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1295" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1295FindNumbersWithEvenNumberOfDigits .java" />
+              <option name="titleSlug" value="find-numbers-with-even-number-of-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1299ReplaceElementsWithGreatestElementOnRightSide .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1299ReplaceElementsWithGreatestElementOnRightSide .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1299" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1299ReplaceElementsWithGreatestElementOnRightSide .java" />
+              <option name="titleSlug" value="replace-elements-with-greatest-element-on-right-side" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1300SumOfMutatedArrayClosestToTarget .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1300SumOfMutatedArrayClosestToTarget .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1300" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1300SumOfMutatedArrayClosestToTarget .java" />
+              <option name="titleSlug" value="sum-of-mutated-array-closest-to-target" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1304FindNUniqueIntegersSumUpToZero .java">
           <value>
             <LeetcodeEditor>
