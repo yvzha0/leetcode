@@ -817,6 +817,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1668MaximumRepeatingSubstring .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1668MaximumRepeatingSubstring .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1668" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1668MaximumRepeatingSubstring .java" />
+              <option name="titleSlug" value="maximum-repeating-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1672RichestCustomerWealth .java">
           <value>
             <LeetcodeEditor>
@@ -828,6 +839,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1678GoalParserInterpretation .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1678GoalParserInterpretation .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1678" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1678GoalParserInterpretation .java" />
+              <option name="titleSlug" value="goal-parser-interpretation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P167TwoSumIiInputArrayIsSorted .java">
           <value>
             <LeetcodeEditor>
@@ -836,6 +858,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P167TwoSumIiInputArrayIsSorted .java" />
               <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1684CountTheNumberOfConsistentStrings .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1684CountTheNumberOfConsistentStrings .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1684" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1684CountTheNumberOfConsistentStrings .java" />
+              <option name="titleSlug" value="count-the-number-of-consistent-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1694ReformatPhoneNumber .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1694ReformatPhoneNumber .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1694" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1694ReformatPhoneNumber .java" />
+              <option name="titleSlug" value="reformat-phone-number" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -872,6 +916,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1704DetermineIfStringHalvesAreAlike .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1704DetermineIfStringHalvesAreAlike .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1704" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1704DetermineIfStringHalvesAreAlike .java" />
+              <option name="titleSlug" value="determine-if-string-halves-are-alike" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1732FindTheHighestAltitude .java">
           <value>
             <LeetcodeEditor>
@@ -880,6 +935,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1732FindTheHighestAltitude .java" />
               <option name="titleSlug" value="find-the-highest-altitude" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1736LatestTimeByReplacingHiddenDigits .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1736LatestTimeByReplacingHiddenDigits .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1736" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1736LatestTimeByReplacingHiddenDigits .java" />
+              <option name="titleSlug" value="latest-time-by-replacing-hidden-digits" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1144,6 +1210,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P34FindFirstAndLastPositionOfElementInSortedArray .java" />
               <option name="titleSlug" value="find-first-and-last-position-of-element-in-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P3514NumberOfUniqueXorTripletsIi .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P3514NumberOfUniqueXorTripletsIi .md" />
+              <option name="frontendQuestionId" value="leetcode.cn3514" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P3514NumberOfUniqueXorTripletsIi .java" />
+              <option name="titleSlug" value="number-of-unique-xor-triplets-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
