@@ -806,6 +806,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1653MinimumDeletionsToMakeStringBalanced .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1653MinimumDeletionsToMakeStringBalanced .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1653" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1653MinimumDeletionsToMakeStringBalanced .java" />
+              <option name="titleSlug" value="minimum-deletions-to-make-string-balanced" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1656DesignAnOrderedStream .java">
           <value>
             <LeetcodeEditor>
@@ -814,6 +825,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1656DesignAnOrderedStream .java" />
               <option name="titleSlug" value="design-an-ordered-stream" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1662CheckIfTwoStringArraysAreEquivalent .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1662CheckIfTwoStringArraysAreEquivalent .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1662" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1662CheckIfTwoStringArraysAreEquivalent .java" />
+              <option name="titleSlug" value="check-if-two-string-arrays-are-equivalent" />
             </LeetcodeEditor>
           </value>
         </entry>
