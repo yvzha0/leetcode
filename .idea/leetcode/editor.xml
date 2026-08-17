@@ -377,6 +377,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1268SearchSuggestionsSystem .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1268SearchSuggestionsSystem .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1268" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1268SearchSuggestionsSystem .java" />
+              <option name="titleSlug" value="search-suggestions-system" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P126WordLadderIi .java">
           <value>
             <LeetcodeEditor>
@@ -487,6 +498,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1332RemovePalindromicSubsequences .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1332RemovePalindromicSubsequences .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1332" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1332RemovePalindromicSubsequences .java" />
+              <option name="titleSlug" value="remove-palindromic-subsequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1337TheKWeakestRowsInAMatrix .java">
           <value>
             <LeetcodeEditor>
@@ -572,6 +594,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1442CountTripletsThatCanFormTwoArraysOfEqualXor .java" />
               <option name="titleSlug" value="count-triplets-that-can-form-two-arrays-of-equal-xor" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1455CheckIfAWordOccursAsAPrefixOfAnyWordInASentence .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1455CheckIfAWordOccursAsAPrefixOfAnyWordInASentence .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1455" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1455CheckIfAWordOccursAsAPrefixOfAnyWordInASentence .java" />
+              <option name="titleSlug" value="check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1461CheckIfAStringContainsAllBinaryCodesOfSizeK .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1461CheckIfAStringContainsAllBinaryCodesOfSizeK .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1461" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1461CheckIfAStringContainsAllBinaryCodesOfSizeK .java" />
+              <option name="titleSlug" value="check-if-a-string-contains-all-binary-codes-of-size-k" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -935,6 +979,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1694ReformatPhoneNumber .java" />
               <option name="titleSlug" value="reformat-phone-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1695MaximumErasureValue .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1695MaximumErasureValue .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1695" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1695MaximumErasureValue .java" />
+              <option name="titleSlug" value="maximum-erasure-value" />
             </LeetcodeEditor>
           </value>
         </entry>
