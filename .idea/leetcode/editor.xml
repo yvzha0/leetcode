@@ -707,6 +707,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1573NumberOfWaysToSplitAString .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1573NumberOfWaysToSplitAString .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1573" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1573NumberOfWaysToSplitAString .java" />
+              <option name="titleSlug" value="number-of-ways-to-split-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P15ThreeSum .java">
           <value>
             <LeetcodeEditor>
@@ -729,6 +740,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1614MaximumNestingDepthOfTheParentheses .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1614MaximumNestingDepthOfTheParentheses .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1614" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1614MaximumNestingDepthOfTheParentheses .java" />
+              <option name="titleSlug" value="maximum-nesting-depth-of-the-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1619MeanOfArrayAfterRemovingSomeElements .java">
           <value>
             <LeetcodeEditor>
@@ -737,6 +759,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1619MeanOfArrayAfterRemovingSomeElements .java" />
               <option name="titleSlug" value="mean-of-array-after-removing-some-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1624LargestSubstringBetweenTwoEqualCharacters .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P1624LargestSubstringBetweenTwoEqualCharacters .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1624" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P1624LargestSubstringBetweenTwoEqualCharacters .java" />
+              <option name="titleSlug" value="largest-substring-between-two-equal-characters" />
             </LeetcodeEditor>
           </value>
         </entry>
