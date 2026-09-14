@@ -2,6 +2,7 @@ package leetcode.editor.cn.Tree;
 
 import java.util.ArrayList;
 import java.util.List;
+import leetcode.editor.cn.TreeNode;
 
 class P1305AllElementsInTwoBinarySearchTrees{
     public static void main(String[] args){

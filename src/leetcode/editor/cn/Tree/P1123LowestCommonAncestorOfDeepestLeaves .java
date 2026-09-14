@@ -1,5 +1,7 @@
 package leetcode.editor.cn.Tree;
 
+import leetcode.editor.cn.TreeNode;
+
 class P1123LowestCommonAncestorOfDeepestLeaves{
     public static void main(String[] args){
         Solution solution = new P1123LowestCommonAncestorOfDeepestLeaves().new Solution();

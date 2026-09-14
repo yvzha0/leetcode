@@ -1,5 +1,7 @@
 package leetcode.editor.cn.Tree;
 
+import leetcode.editor.cn.TreeNode;
+
 class P938RangeSumOfBst{
     public static void main(String[] args){
         Solution solution = new P938RangeSumOfBst().new Solution();

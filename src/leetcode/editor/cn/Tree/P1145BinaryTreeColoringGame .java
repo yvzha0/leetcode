@@ -1,5 +1,7 @@
 package leetcode.editor.cn.Tree;
 
+import leetcode.editor.cn.TreeNode;
+
 class P1145BinaryTreeColoringGame{
     public static void main(String[] args){
         Solution solution = new P1145BinaryTreeColoringGame().new Solution();

@@ -1,5 +1,7 @@
 package leetcode.editor.cn.Tree;
 
+import leetcode.editor.cn.TreeNode;
+
 class P968BinaryTreeCameras{
     public static void main(String[] args){
         Solution solution = new P968BinaryTreeCameras().new Solution();
