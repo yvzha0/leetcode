@@ -2830,6 +2830,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P725SplitLinkedListInParts .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P725SplitLinkedListInParts .md" />
+              <option name="frontendQuestionId" value="leetcode.cn725" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P725SplitLinkedListInParts .java" />
+              <option name="titleSlug" value="split-linked-list-in-parts" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P729MyCalendarI .java">
           <value>
             <LeetcodeEditor>
@@ -2995,6 +3006,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P817LinkedListComponents .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P817LinkedListComponents .md" />
+              <option name="frontendQuestionId" value="leetcode.cn817" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P817LinkedListComponents .java" />
+              <option name="titleSlug" value="linked-list-components" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P819MostCommonWord .java">
           <value>
             <LeetcodeEditor>
@@ -3080,6 +3102,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P872LeafSimilarTrees .java" />
               <option name="titleSlug" value="leaf-similar-trees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P876MiddleOfTheLinkedList .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P876MiddleOfTheLinkedList .md" />
+              <option name="frontendQuestionId" value="leetcode.cn876" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P876MiddleOfTheLinkedList .java" />
+              <option name="titleSlug" value="middle-of-the-linked-list" />
             </LeetcodeEditor>
           </value>
         </entry>
