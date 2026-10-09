@@ -3193,6 +3193,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P881BoatsToSavePeople .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P881BoatsToSavePeople .md" />
+              <option name="frontendQuestionId" value="leetcode.cn881" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P881BoatsToSavePeople .java" />
+              <option name="titleSlug" value="boats-to-save-people" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P88MergeSortedArray .java">
           <value>
             <LeetcodeEditor>
@@ -3245,6 +3256,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P8StringToIntegerAtoi .java" />
               <option name="titleSlug" value="string-to-integer-atoi" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P904FruitIntoBaskets .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P904FruitIntoBaskets .md" />
+              <option name="frontendQuestionId" value="leetcode.cn904" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P904FruitIntoBaskets .java" />
+              <option name="titleSlug" value="fruit-into-baskets" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3325,6 +3347,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P923ThreeSumWithMultiplicity .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P923ThreeSumWithMultiplicity .md" />
+              <option name="frontendQuestionId" value="leetcode.cn923" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P923ThreeSumWithMultiplicity .java" />
+              <option name="titleSlug" value="3sum-with-multiplicity" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P925LongPressedName .java">
           <value>
             <LeetcodeEditor>
@@ -3333,6 +3366,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P925LongPressedName .java" />
               <option name="titleSlug" value="long-pressed-name" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P930BinarySubarraysWithSum .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P930BinarySubarraysWithSum .md" />
+              <option name="frontendQuestionId" value="leetcode.cn930" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P930BinarySubarraysWithSum .java" />
+              <option name="titleSlug" value="binary-subarrays-with-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3487,6 +3531,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P985SumOfEvenNumbersAfterQueries .java" />
               <option name="titleSlug" value="sum-of-even-numbers-after-queries" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P986IntervalListIntersections .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P986IntervalListIntersections .md" />
+              <option name="frontendQuestionId" value="leetcode.cn986" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P986IntervalListIntersections .java" />
+              <option name="titleSlug" value="interval-list-intersections" />
             </LeetcodeEditor>
           </value>
         </entry>
