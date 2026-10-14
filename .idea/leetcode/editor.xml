@@ -2302,6 +2302,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P524LongestWordInDictionaryThroughDeleting .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P524LongestWordInDictionaryThroughDeleting .md" />
+              <option name="frontendQuestionId" value="leetcode.cn524" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P524LongestWordInDictionaryThroughDeleting .java" />
+              <option name="titleSlug" value="longest-word-in-dictionary-through-deleting" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P530MinimumAbsoluteDifferenceInBst .java">
           <value>
             <LeetcodeEditor>
