@@ -2709,6 +2709,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P636ExclusiveTimeOfFunctions .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P636ExclusiveTimeOfFunctions .md" />
+              <option name="frontendQuestionId" value="leetcode.cn636" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P636ExclusiveTimeOfFunctions .java" />
+              <option name="titleSlug" value="exclusive-time-of-functions" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P637AverageOfLevelsInBinaryTree .java">
           <value>
             <LeetcodeEditor>
@@ -2860,6 +2871,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P67AddBinary .java" />
               <option name="titleSlug" value="add-binary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P682BaseballGame .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P682BaseballGame .md" />
+              <option name="frontendQuestionId" value="leetcode.cn682" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P682BaseballGame .java" />
+              <option name="titleSlug" value="baseball-game" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3025,6 +3047,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P725SplitLinkedListInParts .java" />
               <option name="titleSlug" value="split-linked-list-in-parts" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P726NumberOfAtoms .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P726NumberOfAtoms .md" />
+              <option name="frontendQuestionId" value="leetcode.cn726" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P726NumberOfAtoms .java" />
+              <option name="titleSlug" value="number-of-atoms" />
             </LeetcodeEditor>
           </value>
         </entry>
