@@ -1818,6 +1818,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P174DungeonGame .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P174DungeonGame .md" />
+              <option name="frontendQuestionId" value="leetcode.cn174" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P174DungeonGame .java" />
+              <option name="titleSlug" value="dungeon-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P1752CheckIfArrayIsSortedAndRotated .java">
           <value>
             <LeetcodeEditor>
@@ -1884,6 +1895,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P198HouseRobber .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P198HouseRobber .md" />
+              <option name="frontendQuestionId" value="leetcode.cn198" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P198HouseRobber .java" />
+              <option name="titleSlug" value="house-robber" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P199BinaryTreeRightSideView .java">
           <value>
             <LeetcodeEditor>
@@ -1925,6 +1947,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P20ValidParentheses .java" />
               <option name="titleSlug" value="valid-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P213HouseRobberIi .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P213HouseRobberIi .md" />
+              <option name="frontendQuestionId" value="leetcode.cn213" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P213HouseRobberIi .java" />
+              <option name="titleSlug" value="house-robber-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2082,6 +2115,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P264UglyNumberIi .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P264UglyNumberIi .md" />
+              <option name="frontendQuestionId" value="leetcode.cn264" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P264UglyNumberIi .java" />
+              <option name="titleSlug" value="ugly-number-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P268MissingNumber .java">
           <value>
             <LeetcodeEditor>
@@ -2112,6 +2156,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/shuzu/P2784CheckIfArrayIsGood .java" />
               <option name="titleSlug" value="check-if-array-is-good" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P279PerfectSquares .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P279PerfectSquares .md" />
+              <option name="frontendQuestionId" value="leetcode.cn279" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P279PerfectSquares .java" />
+              <option name="titleSlug" value="perfect-squares" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2189,6 +2244,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P303RangeSumQueryImmutable .java" />
               <option name="titleSlug" value="range-sum-query-immutable" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P3041MaximizeConsecutiveElementsInAnArrayAfterModification .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P3041MaximizeConsecutiveElementsInAnArrayAfterModification .md" />
+              <option name="frontendQuestionId" value="leetcode.cn3041" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P3041MaximizeConsecutiveElementsInAnArrayAfterModification .java" />
+              <option name="titleSlug" value="maximize-consecutive-elements-in-an-array-after-modification" />
             </LeetcodeEditor>
           </value>
         </entry>
